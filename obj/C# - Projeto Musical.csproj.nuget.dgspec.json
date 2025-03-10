@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Documents/C# - Projeto Musical/C# - Projeto Musical.csproj": {}
+    "/Users/user/Documents/Projeto-Musical/C# - Projeto Musical.csproj": {}
   },
   "projects": {
-    "/Users/user/Documents/C# - Projeto Musical/C# - Projeto Musical.csproj": {
+    "/Users/user/Documents/Projeto-Musical/C# - Projeto Musical.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Documents/C# - Projeto Musical/C# - Projeto Musical.csproj",
+        "projectUniqueName": "/Users/user/Documents/Projeto-Musical/C# - Projeto Musical.csproj",
         "projectName": "C# - Projeto Musical",
-        "projectPath": "/Users/user/Documents/C# - Projeto Musical/C# - Projeto Musical.csproj",
+        "projectPath": "/Users/user/Documents/Projeto-Musical/C# - Projeto Musical.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Documents/C# - Projeto Musical/obj/",
+        "outputPath": "/Users/user/Documents/Projeto-Musical/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.nuget/NuGet/NuGet.Config"
